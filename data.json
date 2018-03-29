@@ -1,0 +1,37 @@
+{
+  "basics":{
+    "photo":"r profile.png",
+    "name":"surya",
+    "email":"surya@gmail.com",
+    "mobile":"9353586795",
+    "Address":"chittoor"
+  },
+"career":{
+  "info":"To gain an entry-level position in a human resources department.To obtain my excellent customer service and communication skills."
+
+},
+"education":[
+  {
+    "course":"MCA",
+    "college":"SVPCET,PUTTUR",
+    "data":["2016-19","94.9%"]
+  },
+  {
+  "course":"BSC(COMPUTER)",
+  "college":"seshachala degree college,PUTTUR",
+  "data":["2012-15","85.9%"]
+},
+{
+
+    "course":"inter",
+    "college":"Himaja jr college,PUTTUR",
+    "data":["2010-12","85.9%"]
+  },
+  {
+    "course":"SSC",
+    "college": "ZPHS KTHERAPALLI",
+    "data":["2008-10","85.9%"]
+  }
+]
+
+}
